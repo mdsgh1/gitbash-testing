@@ -45,7 +45,7 @@ Feature: Withdraw money from Account
 
     | balance | withdraw | receive | remaining | alert |
     | 100     | 31       | 0       | 100       | "Please enter and amount in multiples of £5" |
-    | 100     | 30       | 70      | 70        | "Your balance is £70"                        |
+    | 100     | 30       | 30      | 70        | "Your balance is £70"                        |
     | 100     | 29       | 0       | 100       | "Please enter and amount in multiples of £5" |
     | 100     | 110      | 0       | 100       | "You have insufficient funds"                |
 
