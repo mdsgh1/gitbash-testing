@@ -1,4 +1,4 @@
-Feature: Withdraw money from Account
+/*Feature: Withdraw money from Account
   As a user who needs to access my allowance
   I want to withdraw money from my account
   So that I can buy items
@@ -49,5 +49,5 @@ Feature: Withdraw money from Account
     | 100     | 29       | 0       | 100       | "Please enter and amount in multiples of £5" |
     | 100     | 110      | 0       | 100       | "You have insufficient funds"                |
 
-
+*/
 
